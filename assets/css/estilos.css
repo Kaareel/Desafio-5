@@ -5,16 +5,16 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("https://thumbs.dreamstime.com/b/comida-del-mundo-y-collage-de-las-bebidas-60905314.jpg");
+  background-image: url("https://heymondo.es/blog/wp-content/uploads/2017/05/comidas-raras-mundo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
-.container {
-  color: black;
+.container h1{
+  color: white;
 }
 .container h2{
-  
+
 }
 
 /* Mis trabajos */
